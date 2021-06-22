@@ -1,0 +1,34 @@
+{
+    "name": "2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+    "brand": "Apple",
+    "info": {
+        "operatingSystem": "Mac OS",
+        "cpuManufacturer": "Apple",
+        "screenSize": "13.3 Inches",
+        "computerMemorySize": "8GB",
+        "desc": "Apple-designed M1 chip for a giant leap in CPU, GPU, and machine learning performance,Get more done with up to 20 hours of battery life, the longest ever in a Mac core CPU delivers up to 2.8x faster performance to fly through workflows quicker than ever core GPU with up to 5x faster graphics for graphics-intensive apps and games core Neural Engine for advanced machine learning...",
+        "types": [{
+                    "capacity": "256GB",
+                    "price": "$1,299.00",
+                    "color": "Space gray"
+                }, {
+                    "capacity": "256GB",
+                    "price": "$1,299.00",
+                    "color": "Silver"
+                }, {
+                    "capacity": "512GB",
+                    "price": "$1,600.00",
+                    "color": "Space gray"
+                }, {
+                    "capacity": "512GB",
+                    "price": "$1,600.00",
+                    "color": "Silver"
+                }]
+    },
+    "category": "laptop",
+    "images": [],
+    "rate": 4.8,
+    "bought": 1000,
+    "views": 50000
+}
+------------------------------------------------------------------------------------------------------------------------
